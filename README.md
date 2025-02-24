@@ -1,16 +1,19 @@
 # burn-severity-analysis-for-Los-Angeles
 
-This project analyzes burn severity using Sentinel-2 satellite imagery. It calculates the **Normalized Burn Ratio (NBR)** and **dNBR** to classify the severity of burned areas.
+This project analyzes burn severity using Sentinel-2 satellite imagery. It calculates the Normalized Burn Ratio (NBR) and dNBR to classify the severity of burned areas.
 
+Overview
+The Burn Severity Mapping follows a fire incident that occurred last month (January). The analyzed areas include:
 
-The Burn Severity Mapping following a fire incident that occurred last month (January). The areas I have analysed are located near Tuna Canyon Park, Topanga State Park, and Pacific Palisades were affected by the fire incident.
-The analysis was performed using Python, and the burn severity percentages were consistent across different methods.
-This study helps in understanding the extent of damage caused by the fire in these regions...
+Tuna Canyon Park
+Topanga State Park
+Pacific Palisades
+The analysis was performed using Python, and the burn severity percentages remained consistent across different methods. This study helps in understanding the extent of fire damage in these regions.
 
+Requirements
+Sentinel-2 imagery (Pre-fire & Post-fire)
+Shapefile for the affected area
 
-#Requirements
-Sentinel-2 image files pre and post
-Shapefile for that area
 
 
 

@@ -14,9 +14,11 @@ Pacific Palisades
 
 The analysis was performed using Python, and the burn severity percentages remained consistent across different methods. This study helps in understanding the extent of fire damage in these regions.
 
-Requirements
-Sentinel-2 imagery (Pre-fire & Post-fire)
-Shapefile for the affected area
+Requirements:
+
+1.Sentinel-2 imagery (Pre-fire & Post-fire)
+
+2.Shapefile for the affected area
 
 
 

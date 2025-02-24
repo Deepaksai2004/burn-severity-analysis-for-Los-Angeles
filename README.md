@@ -2,7 +2,8 @@
 
 This project analyzes burn severity using Sentinel-2 satellite imagery. It calculates the Normalized Burn Ratio (NBR) and dNBR to classify the severity of burned areas.
 
-Overview
+Overview:
+
 The Burn Severity Mapping follows a fire incident that occurred last month (January). The analyzed areas include:
 
 Tuna Canyon Park

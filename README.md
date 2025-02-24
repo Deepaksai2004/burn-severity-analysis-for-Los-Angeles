@@ -7,8 +7,11 @@ Overview:
 The Burn Severity Mapping follows a fire incident that occurred last month (January). The analyzed areas include:
 
 Tuna Canyon Park
+
 Topanga State Park
+
 Pacific Palisades
+
 The analysis was performed using Python, and the burn severity percentages remained consistent across different methods. This study helps in understanding the extent of fire damage in these regions.
 
 Requirements
